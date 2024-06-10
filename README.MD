@@ -24,10 +24,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
-  </a>
+
 <p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
@@ -47,15 +44,24 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Ciber Segurança - Zero Trust                                                                                                                                                                                                  |
+| conteúdo | Comporte-se como um escritor de artigos em segurança cibernética e escreva um artigo atendendo as regras abaixo:
+{REGRAS}
+>Explique de maneira informal
+##Blocos:
+-O que é Zero Trust?
+-Benefícios
+    -Prevenção de acesso não autorizado
+    -Evita o excesso de meios de acesso
+    -Proteção contra tecnologia comprometida
+    -Mais eficiência na resposta
+    -|
+
 
 
 Lexica.art：
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
-
-• Angular
+- No léxica utilizamos o acervo público de imagens geradas por outras pessoas
 
 
 
@@ -75,21 +81,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+   
+    <p>&nbsp&nbsp&nbspJuliano Candido Matias<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/juliano-candido-matias-580bb152">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+    
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -97,4 +96,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️  por [Juliano Candido Matias](https://github.com/JulianoCa)
