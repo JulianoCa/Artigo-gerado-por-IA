@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/assets/cyber shield on laptop front illustration.jpg"
     width="400"  
   />
 </p>
