@@ -22,7 +22,6 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
 
 
 <p>
@@ -81,18 +80,18 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-   
+ <img 
+      align=left 
+      margin=10 
+      width=80 
+      src=" "
+    />
     <p>&nbsp&nbsp&nbspJuliano Candido Matias<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/JulianoCa">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/juliano-candido-matias-580bb152">LinkedIn</a>
 &nbsp;|&nbsp;
-    
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 
